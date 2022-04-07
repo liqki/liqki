@@ -4,4 +4,4 @@
 
 - I like programming in my free time
 - I'm currently learning various JS frameworks
-- Contact me on Discord: liqki 等#1708
+- Contact me on Discord: liqki #1708
